@@ -1,0 +1,3 @@
+C:/Users/vnars/Desktop/repos/Game_VSc2/build/CMakeFiles/MyProject.dir
+C:/Users/vnars/Desktop/repos/Game_VSc2/build/CMakeFiles/edit_cache.dir
+C:/Users/vnars/Desktop/repos/Game_VSc2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+^C:\USERS\VNARS\DESKTOP\REPOS\GAME_VSC2\BUILD\DEFAULT\CMAKEFILES\673315F25C1DC05844E111CF81C83016\GENERATE.STAMP.RULE
+setlocal
+C:\mingw64\bin\cmake.exe -SC:/Users/vnars/Desktop/repos/Game_VSc2 -BC:/Users/vnars/Desktop/repos/Game_VSc2/build/default --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/vnars/Desktop/repos/Game_VSc2/build/default/MyProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+C:/Users/vnars/Desktop/repos/Game_VSc2/build/default/CMakeFiles/MyProject.dir
+C:/Users/vnars/Desktop/repos/Game_VSc2/build/default/CMakeFiles/ALL_BUILD.dir
+C:/Users/vnars/Desktop/repos/Game_VSc2/build/default/CMakeFiles/ZERO_CHECK.dir

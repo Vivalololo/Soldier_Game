@@ -1,0 +1,10 @@
+^C:\USERS\VNARS\DESKTOP\REPOS\GAME_VSC2\CMAKELISTS.TXT
+setlocal
+C:\mingw64\bin\cmake.exe -SC:/Users/vnars/Desktop/repos/Game_VSc2 -BC:/Users/vnars/Desktop/repos/Game_VSc2/build/default --check-stamp-file C:/Users/vnars/Desktop/repos/Game_VSc2/build/default/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

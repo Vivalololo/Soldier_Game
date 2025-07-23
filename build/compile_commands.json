@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/vnars/Desktop/repos/Game_VSc2/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DSFML_STATIC @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\main.cpp.obj -c C:\\Users\\vnars\\Desktop\\repos\\Game_VSc2\\main.cpp",
+  "file": "C:/Users/vnars/Desktop/repos/Game_VSc2/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/vnars/Desktop/repos/Game_VSc2/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DSFML_STATIC @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\Application.cpp.obj -c C:\\Users\\vnars\\Desktop\\repos\\Game_VSc2\\Application.cpp",
+  "file": "C:/Users/vnars/Desktop/repos/Game_VSc2/Application.cpp",
+  "output": "CMakeFiles/MyProject.dir/Application.cpp.obj"
+},
+{
+  "directory": "C:/Users/vnars/Desktop/repos/Game_VSc2/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DSFML_STATIC @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\Entity.cpp.obj -c C:\\Users\\vnars\\Desktop\\repos\\Game_VSc2\\Entity.cpp",
+  "file": "C:/Users/vnars/Desktop/repos/Game_VSc2/Entity.cpp",
+  "output": "CMakeFiles/MyProject.dir/Entity.cpp.obj"
+},
+{
+  "directory": "C:/Users/vnars/Desktop/repos/Game_VSc2/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DSFML_STATIC @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\Player.cpp.obj -c C:\\Users\\vnars\\Desktop\\repos\\Game_VSc2\\Player.cpp",
+  "file": "C:/Users/vnars/Desktop/repos/Game_VSc2/Player.cpp",
+  "output": "CMakeFiles/MyProject.dir/Player.cpp.obj"
+},
+{
+  "directory": "C:/Users/vnars/Desktop/repos/Game_VSc2/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DSFML_STATIC @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\Bullet.cpp.obj -c C:\\Users\\vnars\\Desktop\\repos\\Game_VSc2\\Bullet.cpp",
+  "file": "C:/Users/vnars/Desktop/repos/Game_VSc2/Bullet.cpp",
+  "output": "CMakeFiles/MyProject.dir/Bullet.cpp.obj"
+},
+{
+  "directory": "C:/Users/vnars/Desktop/repos/Game_VSc2/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DSFML_STATIC @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\Utility.cpp.obj -c C:\\Users\\vnars\\Desktop\\repos\\Game_VSc2\\Utility.cpp",
+  "file": "C:/Users/vnars/Desktop/repos/Game_VSc2/Utility.cpp",
+  "output": "CMakeFiles/MyProject.dir/Utility.cpp.obj"
+}
+]
